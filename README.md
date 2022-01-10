@@ -1,4 +1,4 @@
-<!-- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 ### Welcome to my github profile <img align="right" src="https://komarev.com/ghpvc/?username=ravinder-chadha&label=Profile%20views&color=0e75b6&style=plastic" alt="ravinder-chadha" /> 
 
@@ -12,9 +12,9 @@
 <summary style="padding:20px;display:flex;flex-direction:row;justify-content:space-between;">
 <div align="left">
 
- 👨‍💻 I’m currently working on [IOT-and-Robotics](https://github.com/ravinder-chadha/IOT-and-Robotics)
+ 👨‍💻 I’m currently working on [Bhagavad-Gita-App](https://github.com/gita/Bhagavad-Gita-App)
 
- 🌱 I’m currently learning **DSA, Node.js, Arduino**
+ 🌱 I’m currently learning **DSA, Machine Learning**
 
  🧑‍🤝‍🧑 I’m looking to collaborate on [IoT](https://github.com/IoT-Buzz/IoT)
 
@@ -76,4 +76,4 @@
 
 ### Show some ❤️ by starring some of the repositories & following me!
 
-</div> -->
+</div>

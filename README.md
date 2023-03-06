@@ -12,17 +12,17 @@
 <summary style="padding:20px;display:flex;flex-direction:row;justify-content:space-between;">
 <div align="left">
 
- 👨‍💻 I’m currently working on [Bhagavad-Gita-App](https://github.com/gita/Bhagavad-Gita-App)
+ 👨‍💻 I’m currently working on [institute-website](https://github.com/ravinder-chadha/institute-website)
 
- 🌱 I’m currently learning **DSA, Machine Learning**
+ 🌱 I’m currently learning **Deep Learning**
 
- 🧑‍🤝‍🧑 I’m looking to collaborate on [IoT](https://github.com/IoT-Buzz/IoT)
+ 🧑‍🤝‍🧑 I’m looking to collaborate on [Bhagavad-Gita-App](https://github.com/gita/Bhagavad-Gita-App)
 
  🤝 I’m looking for help with **Machine Learning**
 
- 💬 Ask me about **C++, Web Dev, Android Dev**
+ 💬 Ask me about **Development and Programming**
 
- 📄 Know about my experiences [@Resume](https://ravinder-chadha.github.io/Resume/)
+ 📄 Know about my experiences [@Resume](https://drive.google.com/file/d/1kpw7JCI09RKlfdyWVBW0UytJy23eAnFI/view?usp=sharing)
  
 </div>
 <img align="right" src="assets/tech.gif" alt="pro_coder_gif" height="200">
